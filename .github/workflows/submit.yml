@@ -1,4 +1,4 @@
-name: Pre-submit tests
+7name: Pre-submit tests
 
 on:
   push:
